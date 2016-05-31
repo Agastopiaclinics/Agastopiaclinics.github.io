@@ -11,7 +11,7 @@ hero:
     hero_title: Agastopia Clinics
     hero_description: Cosmetic and plastic surgery.
 
-# Contact form
+# Contact form, consider using https://formspree.io/
 api_token: # Enter API token here
 
 # Contact info
